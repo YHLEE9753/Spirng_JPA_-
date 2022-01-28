@@ -1,4 +1,4 @@
-# Spring-JPA-Inflear 김영한 강의 코드
+# Spring-JPA-Inflearn 김영한 강의 코드
 
 
 ## 김영한 강의
